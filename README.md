@@ -7,7 +7,7 @@ A colorado Board of Elections employee has given you the following task to compl
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
-5. DEtermine the winner of the election based on popular vote.
+5. Determine the winner of the election based on popular vote.
 
 ## Resources
 * Data Source: election_analysis.csv
@@ -15,7 +15,7 @@ A colorado Board of Elections employee has given you the following task to compl
 
 ## Election-Audit Results:
 Please refer to the image below for the Election-Audit Results.
-
+![election_results](https://github.com/MarcoFernandez14/Election_Analysis/blob/main/Resources/election_results.csv)
 
 * There were 369,711 votes cast in the election.
 
