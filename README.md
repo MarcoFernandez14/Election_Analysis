@@ -19,20 +19,20 @@ Please refer to the image below for the Election-Audit Results.
 
 * There were 369,711 votes cast in the election.
 
-* Votes and percentage of total votes breakdown by county in the precinct:
- Jefferson: 10.5% (38,855)
- Denver: 82.8% (306,055)
+* Votes and percentage of total votes breakdown by county in the precinct:  
+ Jefferson: 10.5% (38,855)  
+ Denver: 82.8% (306,055)  
  Arapahoe: 6.7% (24,801)
 
 * Largest County Turnout: Denver
 
-* Votes and percentage of the total votes breakdown by candidate:
- Charles Casper Stockham: 23.0% (85,213)
- Diana DeGette: 73.8% (272,892)
+* Votes and percentage of the total votes breakdown by candidate:  
+ Charles Casper Stockham: 23.0% (85,213)  
+ Diana DeGette: 73.8% (272,892)  
  Raymon Anthony Doane: 3.1% (11,606)
 
-* Winner: Diana DeGette
- Winning Vote Count: 272,892
+* Winner: Diana DeGette  
+ Winning Vote Count: 272,892 
  Winning Percentage: 73.8%
 
 
