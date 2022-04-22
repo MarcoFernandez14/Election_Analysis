@@ -42,7 +42,7 @@ Please refer to the image below for the Election-Audit Results.
 
 ## Election-Audit Summary
 This scrip can definitely be used used - with minor adaptations - for any other election. As the code works with variables that are added from the raw data (using tools such as list and dictionaries), ***it can be used to audit any other precint election***.
-This code ***can also be adapted to differemt election rules*** such as: a) candidates that have more than a cetain percentage of votes advance to a second voting round, or, b) a candidate has to win in all the counties to be elected, or, c) any other rules variation.   
+This code ***can also be adapted to differemt election rules*** such as: a) candidates that have more than a cetain percentage of votes advance to a second voting round, or, b) a candidate has to win in all the counties to be elected, or, c) other rules variations.   
 The code will requiere, of course, minor changes adapt to the raw data *file name, location/path and format*. However, the code can work with more or less lines or with different candidates or counties names.
 
 
